@@ -1,7 +1,0 @@
-{
-  "name": "Creators Calendar",
-  "description": "A perpetual 364-day calendar system anchored to March 17, 2013, featuring AI-generated daily scriptural readings and notifications.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
